@@ -26,6 +26,14 @@ A complete, honest data-mining workflow on the 891-passenger Titanic dataset: da
 
 ![Survival by age group and port](images/survival_by_age_and_port.png)
 
+## Interactive dashboard
+
+[![Tableau dashboard](images/tableau_dashboard.jpg)](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Titanic_Survival_Dashboard_17935488181990/TitanicSurvival)
+
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/oluwatoyin.akadiri6432/viz/Titanic_Survival_Dashboard_17935488181990/TitanicSurvival)**
+
+The packaged workbook is [`dashboard/Titanic_Survival_Dashboard.twbx`](dashboard/Titanic_Survival_Dashboard.twbx). [`dashboard/export_dashboard_data.py`](dashboard/export_dashboard_data.py) rebuilds the dashboard tables in `dashboard/data/` from this project's data and code.
+
 ## Methods
 
 - Data quality report: missing values by column (Cabin 77%, Age 20%)

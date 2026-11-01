@@ -1,0 +1,7 @@
+metric,value
+Passengers,891
+Survived,38.4%
+Women survived,74.2%
+Men survived,18.9%
+Random forest accuracy,83.9%
+Top rule lift,2.54
